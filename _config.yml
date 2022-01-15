@@ -13,3 +13,7 @@ social_media:
   
 share-links-active:
   linkedin: true
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
