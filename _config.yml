@@ -1,5 +1,12 @@
 theme: jekyll-theme-minimal
 title: Annemarie Timmers
-logo: /images/profile.jpeg
+avatar: "/images/profile.jpeg"
+
+navbar-links:
+  About: "about"
+  Experience: "experience"
+  Contact: "contact"
+  
+
 social_media:
   linkedin: annemarie-timmers
