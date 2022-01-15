@@ -1,12 +1,15 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 title: Annemarie Timmers
-avatar: "/images/profile.jpeg"
+logo: "/images/profile.jpeg"
 
 navbar-links:
   About: "about"
   Experience: "experience"
   Contact: "contact"
   
-
 social_media:
+  github: agjtimmers
   linkedin: annemarie-timmers
+  
+share-links-active:
+  linkedin: true
