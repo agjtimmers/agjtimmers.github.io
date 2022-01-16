@@ -1,10 +1,10 @@
 ---
 layout: page
 title: CV
-permalink: "C:\Users\annem\github\agjtimmers.github.io\CV Annemarie Timmers.pdf"
+permalink: /cv/
 ---
 
-Look at my [CV](C:\Users\annem\github\agjtimmers.github.io\CV Annemarie Timmers.pdf)
+Look at my [CV]({{https://agjtimmers.github.io/}}/assets/CV Annemarie Timmers.pdf)
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
