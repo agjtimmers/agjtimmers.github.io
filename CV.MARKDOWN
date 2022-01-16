@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /cv/
+permalink: "C:\Users\annem\github\agjtimmers.github.io\CV Annemarie Timmers.pdf"
 ---
 
 Look at my [CV](C:\Users\annem\github\agjtimmers.github.io\CV Annemarie Timmers.pdf)
