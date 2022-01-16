@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About
+title: About{.columns-2}
 permalink: /about/
 ---
+
+![Me](/images/Profile.jpeg)
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
