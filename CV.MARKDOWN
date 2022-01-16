@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Look at my <a href=file:///C:/Users/annem/github/agjtimmers.github.io/CV%20Annemarie%20Timmers.pdf>text</a>
+Look at my [CV](C:\Users\annem\github\agjtimmers.github.io\CV Annemarie Timmers.pdf)
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
