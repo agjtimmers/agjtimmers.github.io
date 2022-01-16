@@ -2,9 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+style="column-count: 2"
 ---
-
-## About {.columns-2}#
 
 ![](/images/Profile.jpeg)
 
