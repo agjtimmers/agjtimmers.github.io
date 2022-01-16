@@ -4,7 +4,16 @@ title: Experience
 permalink: /Experience/
 ---
 
-Download my [CV]({{https://agjtimmers.github.io/}}/assets/CV Annemarie Timmers.pdf). 
+{% for item in site.data.skills %}
+<h4>{{ item.category }}</h4>
+<ul>
+    {% for skill in item.skills %}
+    <li class="skill">{{ skill.name }} - {{ skill.rating }}</li>
+    {% endfor %}
+</ul>
+{% endfor %}
+
+Download my [CV]({{https://agjtimmers.github.io/}}/_assets/CV Annemarie Timmers.pdf). 
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
