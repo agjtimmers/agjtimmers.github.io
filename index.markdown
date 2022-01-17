@@ -22,6 +22,12 @@ layout: home
     display: table;
     clear: both;
     }
+    
+    .container {
+        width: 50%;
+        height: 300px;
+    }
+      
     img {
         width: 100%;
         height: 100%;
