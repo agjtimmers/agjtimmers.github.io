@@ -15,6 +15,7 @@ layout: home
     .column {
     float: left;
     width: 50%;
+    gap: 1rem;
     }
 
     .row:after {
@@ -38,10 +39,10 @@ layout: home
  </head>
  <body>
     <div class="row">
-        <div class="column" style="background-color:#FFFFFF;">
+        <div class="column">
             <img src="_assets/Profile.jpeg">
         </div>
-        <div class="column" style="background-color:#FFFFFF;">
+        <div class="column">
             <h2>Welcome!</h2>
             <p>Something about myself</p>
         </div>
