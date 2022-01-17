@@ -22,15 +22,20 @@ layout: home
     display: table;
     clear: both;
     }
+    img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
     </style>
  </head>
  <body>
     <div class="row">
         <div class="column" style="background-color:#FFFFFF;">
-            <img src="Profile.jpeg" alt="" width="543" height="834">
+            <img src="Profile.jpeg" alt="">
         </div>
         <div class="column" style="background-color:#FFFFFF;">
-            <h2>Welcom!</h2>
+            <h2>Welcome!</h2>
             <p>Something about myself</p>
         </div>
     </div>
