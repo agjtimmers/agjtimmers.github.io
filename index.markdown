@@ -19,7 +19,7 @@ layout: home
 
     .row:after {
     content: "";
-    display: table;
+    display: grid;
     clear: both;
     }
     
