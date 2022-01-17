@@ -26,13 +26,12 @@ layout: home
  </head>
  <body>
     <div class="row">
-        <div class="column" style="background-color:#FFB695;">
-            <h2>Column 1</h2>
-            <p>Data..</p>
+        <div class="column" style="background-color:#FFFFFF;">
+            <img src="Profile.jpeg" alt="" width="543" height="834">
         </div>
-        <div class="column" style="background-color:#96D1CD;">
-            <h2>Column 2</h2>
-            <p>Data..</p>
+        <div class="column" style="background-color:#FFFFFF;">
+            <h2>Welcom!</h2>
+            <p>Something about myself</p>
         </div>
     </div>
  </body>
