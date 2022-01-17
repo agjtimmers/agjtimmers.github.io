@@ -32,7 +32,7 @@ layout: home
  <body>
     <div class="row">
         <div class="column" style="background-color:#FFFFFF;">
-            <img src="_assets/Profile.jpeg" alt="">
+            <img src="_assets/Profile.jpeg" />
         </div>
         <div class="column" style="background-color:#FFFFFF;">
             <h2>Welcome!</h2>
