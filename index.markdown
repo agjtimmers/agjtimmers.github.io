@@ -15,7 +15,6 @@ layout: home
     .column {
     float: left;
     width: 50%;
-    gap: 1rem;
     }
 
     .row:after {
