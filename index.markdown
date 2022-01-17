@@ -8,33 +8,32 @@ layout: home
 <html>
  <head>
     <style>
-    body {
-  display: grid;
-  padding: 2rem;
-  grid-template-columns: 300px 1fr;
-  gap: 1rem;
-  align-items: center;
-  max-width: 800px;
-  margin: 0 auto;
-  font: 500 100%/1.5 system-ui;
-}
-img {
-  max-width: 100%;
-  height: auto;
-}
+    {
+        box-sizing: border-box;
+    }
+    /* Set additional styling options for the columns*/
+    .column {
+    float: left;
+    width: 50%;
+    }
+
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+    
+    .container {
+        width: 50%;
+        height: 300px;
+    }
       
-    @media (max-width: 650px) {
-  body {
-    display: block;
-    font-size: 80%;
-  }
-  p {
-    position: relative;
-    margin: -3rem 0 2rem 1rem;
-    padding: 1rem;
-    background: rgba(white, 0.8);
-  }
-}
+    img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+      
     </style>
  </head>
  <body>
