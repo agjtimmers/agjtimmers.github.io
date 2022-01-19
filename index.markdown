@@ -5,19 +5,18 @@
 layout: home
 ---
 
-<div style="width: 100%; min-height: 500px; ">
+.demo:after { content: ''; clear: both; visibility: hidden; }
+img { float: left; margin-right: 20px; }
+p   { overflow: hidden }
 
 <div>
-  <img src="Profile.jpeg" alt="" height=400 style="float:left">
-</div>
-
-<div  id="text" style="margin: 20px; ">
+  <img src="Profile.jpeg" height=400>
   <p style="margin: 20px; ">
-  Welcome!
+  Welcome! 
   <br>
   <br>
   This is my personal website.
   </p>
 </div>
 
-</div>
+
