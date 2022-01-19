@@ -5,9 +5,12 @@
 layout: home
 ---
 
-div {
+<style type="text/css">
+ div {
     overflow:hidden;
 }
+</style>
+
 
 <div>
   <img src="Profile.jpeg" height=400 style="float:left">
