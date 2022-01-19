@@ -25,7 +25,7 @@ title-img: /images/Profile.jpeg
 description: >- # this means to ignore newlines until "baseurl:"
   I am studying to be a statistician at Utrecht University. 
   I am passionate about making statistics understandable and showing people
-  that there is no need to fear it. I am currently doing my thesis at CITO, 
+  that there is no need to fear it. I am currently doing my thesis at Cito, 
   investigating the use of propensity score matching to combat mode effects. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
