@@ -29,7 +29,7 @@ layout: home
 </style>
 
 <div class='container'>
-    <img src="Profile.jpeg" class='iconDetails' />
+    <img src="img_icon.jpeg" class='iconDetails' />
     <div class="text">
         <p>
             Welcome! 
