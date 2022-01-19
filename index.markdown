@@ -13,12 +13,14 @@ layout: home
 .iconDetails {
     margin:0;
     float:left;
+    vertical-align: middle;
     height:400px;
 }
 .container {
     width:100%;
     height:auto;
     padding:1%;
+    vertical-align: middle;
 }
 .text {
     float:left;

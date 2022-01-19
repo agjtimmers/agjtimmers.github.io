@@ -4,8 +4,6 @@ title: Projects & Publications
 permalink: /projects/
 ---
 
-<h1>""</h1>
-
 <div>
   <h3>Projects</h3>
     <p>
@@ -16,6 +14,8 @@ permalink: /projects/
 <div>
   <h3>Publications</h3>
     <p>
-    I have published a dataset.     
+    As part of my job for dhr. dr. Lugtig, I have compiled a dataset containing citizen science projects in the Netherlands.        This dataset was published in 2021.
+    
+    Check out this <a href="https://www.uu.nl/en/news/citizen-science-how-awesome-is-that">article</a> written about the dataset!
     </p>
 </div>
