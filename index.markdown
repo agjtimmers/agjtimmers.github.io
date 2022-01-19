@@ -10,11 +10,13 @@ layout: home
     padding:0;
     margin:0;
 }
-.iconDetails {
-    margin:0;
-    float:left;
-    vertical-align: middle;
-    height:400px;
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 .container {
     width:100%;
@@ -30,7 +32,7 @@ layout: home
 </style>
 
 <div class='container'>
-    <img src="Profile.jpeg" class='iconDetails' />
+    <img src="Profile.jpeg" class='.vertical-center' height=400 float:left/>
     <div class="text">
         <p>
             Welcome! 
