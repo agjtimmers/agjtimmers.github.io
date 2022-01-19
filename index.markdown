@@ -13,7 +13,7 @@ layout: home
 .iconDetails {
     margin:0 2%;
     float:left;
-    height:400;
+    height:400px;
 }
 .container {
     width:100%;
