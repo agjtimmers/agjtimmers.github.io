@@ -4,6 +4,21 @@
 
 layout: home
 ---
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+html {
+    width:100%; 
+    height:100%;
+}
+
+body {
+    overflow: hidden;
+}
+</style>
+</head>
+<body>
 
 <div>
   <img src="Profile.jpeg" height=400 style="float:left">
@@ -15,4 +30,5 @@ layout: home
   </p>
 </div>
 
-
+</body>
+</html>
