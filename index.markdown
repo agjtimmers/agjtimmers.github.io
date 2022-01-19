@@ -29,7 +29,6 @@ layout: home
 
 <div class='container'>
     <img src="Profile.jpeg" class='iconDetails' />
-
     <div class="text">
         <p>
             Welcome! 

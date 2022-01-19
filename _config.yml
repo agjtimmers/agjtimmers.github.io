@@ -31,6 +31,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  agjtimmers
 linkedin_username: annemarie-timmers-35381613a
+orcid: 0000-0002-7456-9318
 
 # Build settings
 theme: minima
