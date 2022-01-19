@@ -23,9 +23,10 @@ author: "Feel free to reach out to me:"
 email: annemarietimmers@cwtimmers.nl
 title-img: /images/Profile.jpeg
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am studying to be a statistician at Utrecht University. 
+  My passion is in making statistics understandable to everyone and showing people
+  that there is no need to fear it. I am currently doing my thesis at CITO, 
+  investigating the use of propensity score matching to combat mode effects. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  agjtimmers
