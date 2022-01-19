@@ -9,12 +9,15 @@ layout: home
  div {
     overflow:hidden;
 }
+p {
+    border: 20px;
+  }
 </style>
 
 
 <div>
   <img src="Profile.jpeg" height=400 style="float:left">
-  <p style="margin: 20px; ">
+  <p>
   Welcome! 
   <br>
   <br>
