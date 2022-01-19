@@ -28,7 +28,7 @@ permalink: /about/
 </style>
 
 <div class='container'>
-    <img src="img_grad.jpg" alt="My adorable dog!" class='iconDetails' />
+    <img src="img_icon.jpg" alt="My adorable dog!" class='iconDetails' />
     <div class="text">
         <p>
             I am a second year student in the research master Methodology and Statistics for the Behavioural, Biomedical and Social Sciences. 
