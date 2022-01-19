@@ -6,11 +6,8 @@ layout: home
 ---
 
 <style type="text/css">
- div {
-    overflow:hidden;
-}
 p {
-    border: 20px;
+    margin-left: 30px;
   }
 </style>
 
