@@ -10,13 +10,11 @@ layout: home
     padding:0;
     margin:0;
 }
-
-.vertical-center {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
+.verticalcenter {
+    margin: 0;
+    height: 400px;
+    vertical-align: middle;
+    float:left;
 }
 .container {
     width:100%;
@@ -32,7 +30,7 @@ layout: home
 </style>
 
 <div class='container'>
-    <img src="Profile.jpeg" class='.vertical-center' height=400 float:left/>
+    <img src="Profile.jpeg" class='.verticalcenter'/>
     <div class="text">
         <p>
             Welcome! 
