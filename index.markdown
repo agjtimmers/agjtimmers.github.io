@@ -6,21 +6,40 @@ layout: home
 ---
 
 <style type="text/css">
- div {
-    overflow:hidden;
+ * {
+    padding:0;
+    margin:0;
 }
-p {
-    margin-left: 30px;
-  }
+.iconDetails {
+    margin:0 2%;
+    float:left;
+    height:400;
+}
+.container {
+    width:100%;
+    height:auto;
+    padding:1%;
+}
+.text {
+    float:left;
+    margin:20px;
+}
+
 </style>
 
+<div class='container'>
+    <img src="Profile.jpeg" class='iconDetails' />
 
-<div>
-  <img src="Profile.jpeg" height=400 style="float:left">
-  <p>
-  Welcome! 
-  <br>
-  <br>
-  This is my personal website.
-  </p>
+    <div class="text">
+        <p>
+            Welcome! 
+            <br>
+            <br>
+            This is my personal website.
+        </p>
+    </div>
 </div>
+
+
+
+

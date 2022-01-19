@@ -36,10 +36,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
-#header_pages:
- #- about.markdown
- #- experience.markdown
- #- propub.markdown
+header_pages:
+ - about.markdown
+ - experience.markdown
+ - propub.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
