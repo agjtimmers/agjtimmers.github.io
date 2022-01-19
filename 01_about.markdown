@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-![My adorable dog!](/_assets/img_dog2.jpg)
+![My adorable dog!](img_grad.jpg)
 
-I am a second year student in the research master Methodology and Statistics for the Behavioural, Biomedical and Social Sciences. I did my bachelor's in sociology, but soon found out that I preferred every course that had to do with numbers, the more, the better. I began taking every available statistics course as elective and absolutely fell in love with all that is statistics. Now that my master is almost finished, I look back on two years of hard work.
+I am a second year student in the research master Methodology and Statistics for the Behavioural, Biomedical and Social Sciences. I did my bachelor's in sociology, but soon found out that I preferred every course that had to do with numbers, the more, the better. I began taking every available statistics course as elective and absolutely fell in love with all that is statistics. Now that my master is almost finished, I look back on two years of enthousiastic learning and hard work, and I would not want it any different.
 
 My interests lie in psychometrics and Bayesian statistics. 
         
