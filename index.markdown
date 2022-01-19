@@ -5,12 +5,8 @@
 layout: home
 ---
 
-.demo:after { content: ''; clear: both; visibility: hidden; }
-img { float: left; margin-right: 20px; }
-p   { overflow: hidden }
-
 <div>
-  <img src="Profile.jpeg" height=400>
+  <img src="Profile.jpeg" height=400 style="float:left">
   <p style="margin: 20px; ">
   Welcome! 
   <br>
