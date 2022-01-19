@@ -4,6 +4,8 @@ title: Projects & Publications
 permalink: /projects/
 ---
 
+<h1>""</h1>
+
 <div>
   <h3>Projects</h3>
     <p>
