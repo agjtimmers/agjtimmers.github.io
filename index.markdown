@@ -10,17 +10,16 @@ layout: home
     padding:0;
     margin:0;
 }
-.verticalcenter {
-    margin: 0;
-    height: 400px;
-    vertical-align: middle;
+.iconDetails {
+    margin:0;
     float:left;
+    vertical-align: middle;
+    height:400px;
 }
 .container {
     width:100%;
     height:auto;
     padding:1%;
-    vertical-align: middle;
 }
 .text {
     float:left;
@@ -30,7 +29,7 @@ layout: home
 </style>
 
 <div class='container'>
-    <img src="Profile.jpeg" class='.verticalcenter'/>
+    <img src="Profile.jpeg" class='iconDetails' />
     <div class="text">
         <p>
             Welcome! 
