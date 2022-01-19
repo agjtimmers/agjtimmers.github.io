@@ -11,8 +11,9 @@ layout: home
     margin:0;
 }
 .iconDetails {
-    margin:0 2%;
+    margin:0;
     float:left;
+    height:400px;
 }
 .container {
     width:100%;
@@ -27,7 +28,7 @@ layout: home
 </style>
 
 <div class='container'>
-    <img src="Profile.jpeg" class='iconDetails' height=400 />
+    <img src="Profile.jpeg" class='iconDetails' />
 
     <div class="text">
         <p>
