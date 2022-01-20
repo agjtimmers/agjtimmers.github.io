@@ -25,7 +25,6 @@ layout: home
     float:left;
     margin:20px;
 }
-
 </style>
 
 <div class='container'>

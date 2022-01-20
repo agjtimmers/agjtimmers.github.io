@@ -10,17 +10,16 @@ body {
 }
 
 .container {
-  max-width: 600px;
+  width: 100%;
   &__image {
     height: 500px;
-    margin: 20px 20px 20px 20px;
+    margin: 20px;
     float: left;
   }
   &__text {
     display: inline;
   }
 }
-
 </style> 
 
 <div class="container">
