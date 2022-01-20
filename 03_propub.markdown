@@ -25,8 +25,8 @@ permalink: /projects/
     <p>
     Timmers, Annemarie, & Lugtig, Peter. (2021). List of Citizen Science Projects 
 in the Netherlands (Version v2021.4.29) [Data set]. Zenodo. <a href="http://doi.org/10.5281/zenodo.4724570">http://doi.org/10.5281/zenodo.4724570</a>
-    As part of my job for dhr. dr. Lugtig, I have compiled a dataset containing citizen science projects in the Netherlands. This dataset was published in 2021.
-    
+            <br>
+    As part of my job for Peter Lugtig, I have compiled a dataset containing citizen science projects in the Netherlands. This dataset was published in 2021.
     Check out <a href="https://www.uu.nl/en/news/citizen-science-how-awesome-is-that">this</a> article written about the dataset!
     </p>
 </div>
