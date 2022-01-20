@@ -4,10 +4,31 @@ title: About
 permalink: /about/
 ---
 
-I am a second year student in the research master Methodology and Statistics for the Behavioural, Biomedical and Social Sciences. I did my bachelor's in sociology, but soon found out that I preferred every course that had to do with numbers, the more, the better. I began taking every available statistics course as elective and absolutely fell in love with all that is statistics. Now that my master is almost finished, I look back on two years of enthousiastic learning and hard work, and I would not want it any different.
+<style type="text/css">
+body {
+  padding: 0px;
+}
 
-My interests lie in psychometrics and Bayesian statistics. 
-        
-In my free time I love to visit friends and family, go for a walk while listening to music or an audiobook, or knit. I am a member of the                   christian student organisation <a href="https://ichthusutrecht.nl/">Ichthus</a> where I am part of a Bible study group and a committee that                 writes a report advising on long-term policy measures. Whenever I am at my parents', I will make sure to spend a lot of time with my dog.
+.container {
+  max-width: 600px;
+  &__image {
+    height: 500px;
+    margin: 20px 20px 20px 20px;
+    float: left;
+  }
+  &__text {
+    display: inline;
+  }
+}
 
-![](img_dog.jpg)
+</style> 
+
+<div class="container">
+  <img class="container__image" src="img_dog.jpg"/>
+  <div class="container__text">
+    <p>I am a second year student in the research master Methodology and Statistics for the Behavioural, Biomedical and Social Sciences. I did my bachelor's in sociology, but soon found out that I preferred every course that had to do with numbers, the more, the better. I began taking every available statistics course as elective and absolutely fell in love with all that is statistics. Now that my master is almost finished, I look back on two years of enthousiastic learning and hard work, and I would not want it any different.</p>
+    <p>My interests lie in psychometrics and Bayesian statistics.</p>
+    <p>In my free time I love to visit friends and family, go for a walk while listening to music or an audiobook, or knit. I am a member of the                   christian student organisation <a href="https://ichthusutrecht.nl/">Ichthus</a> where I am part of a Bible study group and a committee that                 writes a report advising on long-term policy measures. Whenever I am at my parents', I will make sure to spend a lot of time with my dog.</p>
+  </div>
+</div>
+
