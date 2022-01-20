@@ -7,8 +7,10 @@ permalink: /projects/
 
 <div>
   <h4>Meta-analysis</h4>
+</div>
+<div>
   <p>
-  Together with Peter Lugtig, Bella Struminskaya and Céline Henneveld, I am working on a meta-analysis on nonresponse and nonresponse bias. We are currently in the text screening stage.    
+  Together with Peter Lugtig, Bella Struminskaya and C?line Henneveld, I am working on a meta-analysis on nonresponse and nonresponse bias. We are currently in the text screening stage.    
   </p>
 </div>
 
