@@ -5,22 +5,6 @@ permalink: /projects/
 ---
 
 <div>
-  <h3>Projects</h3>
-  <h4>Master thesis</h4>
-    <p>
-    I am working on a meta-analysis.    
-    </p>
-  <h4>Meta-analysis</h4>
-    <p>
-    Together with Peter Lugtig, Bella Struminskaya and Céline Henneveld, I am working on a meta-analysis on nonresponse and nonresponse bias. We are currently in the text screening stage.    
-    </p>
-  <h4>Geoenrichment of citizen science data</h4>
-    <p>
-    Together with Peter Lugtig and Erik-Jan van Kesteren, I am working on correcting inferences in volunteer data using geospatial covariates using a project from the dataset cited below. 
-    </p>
-</div>
-
-<div>
   <h3>Publications</h3>
     <p>
     Timmers, Annemarie, & Lugtig, Peter. (2021). List of Citizen Science Projects 
