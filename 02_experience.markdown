@@ -10,12 +10,16 @@ permalink: /experience/
 <div>
   <p><b>MSc Methodology and Statistics for the Behavioural, Biomedical and Social Science</b>
   <br>
-  <i>Utrecht University</i></p>
+  <i>Utrecht University</i>
+  <br>
+  September 2020 - Present</p>
 </div>
 <div>
   <p><b>BSc Sociology</b>
   <br>
-  <i>Utrecht University</i></p>
+  <i>Utrecht University</i>
+  <br>
+  September 2017 - July 2020</p>
 </div>
 
 
@@ -23,7 +27,9 @@ permalink: /experience/
   <h3>Experience</h3>
 </div>
 <div>
-  <p><b>Student Assistent Peter Lugtig</b>
+  <p><b>Student Assistent Peter Lugtig
+  <br>
+  January 2021 - Present</b>
   <br>
   <i>Utrecht University</i></p>
 </div>
@@ -36,7 +42,9 @@ As part of my job for Peter Lugtig, I have compiled a dataset containing citizen
 <div>
   <p><b>Student Assistent</b>
   <br>
-  <i>Utrecht University</i></p>
+  <i>Utrecht University</i>
+  <br>
+  November 2019 - August 2021</p>
 </div>
 <div>
   <p>
@@ -51,9 +59,11 @@ As a student assistant, I have taught classes, assisted practicals and  marked t
 </div>
 
 <div>
-  <p><b>Intern</b>
+  <p><b>Internship</b>
   <br>
-  <i>Onderzoekcentrum Drechtsteden</i></p>
+  <i>Onderzoekcentrum Drechtsteden</i>
+  <br>
+  April 2019 - July 2019</p>
 </div>
 <div>
     <ul>

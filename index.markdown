@@ -31,10 +31,10 @@ layout: home
     <img src="img_icon.jpeg" class='iconDetails' />
     <div class="text">
         <p>
-            Welcome! 
-            <br>
-            <br>
-            This is my personal website.
+        Welcome! 
+        <br>
+        <br>
+        I am Annemarie Timmers
         </p>
     </div>
 </div>
