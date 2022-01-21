@@ -8,7 +8,7 @@ permalink: /experience/
   <h3>Education</h3>
 </div>
 <div>
-  <p><b>MSc Methodology and Statistics for the Behavioural, Biomedical and Social Science</b>
+  <p><b>MSc Methodology and Statistics for the Behavioural, Biomedical and Social Sciences</b>
   <br>
   <i>Utrecht University</i>
   <br>
@@ -27,11 +27,11 @@ permalink: /experience/
   <h3>Experience</h3>
 </div>
 <div>
-  <p><b>Student Assistent Peter Lugtig
+  <p><b>Student Assistant Peter Lugtig</b>
   <br>
-  January 2021 - Present</b>
+  <i>Utrecht University</i>
   <br>
-  <i>Utrecht University</i></p>
+  January 2021 - Present</p>
 </div>
 <div>
     <p>
@@ -40,7 +40,7 @@ As part of my job for Peter Lugtig, I have compiled a dataset containing citizen
 </div>
 
 <div>
-  <p><b>Student Assistent</b>
+  <p><b>Student Assistant</b>
   <br>
   <i>Utrecht University</i>
   <br>

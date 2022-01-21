@@ -12,7 +12,7 @@ permalink: /projects/
 </div>
 <div>
     <p>
-    I am writing my master thesis at <a href="https://www.cito.com/">Cito</a> at the Department of Psychometrics and Research under the supervision of <a href="https://www.cito.nl/kennis-en-innovatie/psychometrisch-onderzoek-en-dienstverlening/team/remco-feskens">Remco Feskens</a> and <a href="https://personen.utwente.nl/m.r.m.meelissen">Martina Meelissen</a>. I am investigating the use of propensity score matching to reduce mode effects in cross-country comparisons in PISA. Visit the Github repository for my thesis <a href="https://github.com/agjtimmers/CitoThesis">here</a>. 
+    I am writing my master thesis at <a href="https://www.cito.com/">Cito</a> at the Department of Psychometrics and Research under the supervision of <a href="https://www.cito.nl/kennis-en-innovatie/psychometrisch-onderzoek-en-dienstverlening/team/remco-feskens">Remco Feskens</a> and <a href="https://personen.utwente.nl/m.r.m.meelissen">Martina Meelissen</a> (University of Twente). I am investigating the use of propensity score matching in reducing mode effects in cross-country comparisons in PISA. Visit the Github repository for my thesis <a href="https://github.com/agjtimmers/CitoThesis">here</a>. 
     </p>
 </div>
 <div>
@@ -28,7 +28,7 @@ permalink: /projects/
 </div>
 <div>
     <p>
-    Together with <a href="https://www.uu.nl/medewerkers/plugtig">Peter Lugtig</a> and <a href="https://www.uu.nl/staff/EvanKesteren">Erik-Jan van Kesteren</a>, I am working on correcting inferences in volunteer data using geospatial covariates using the <a href="https://www.globeatnight.org/">Globe at Night</a> data. 
+    Together with <a href="https://www.uu.nl/medewerkers/plugtig">Peter Lugtig</a> and <a href="https://www.uu.nl/staff/EvanKesteren">Erik-Jan van Kesteren</a>, I am working on correcting inferences in citizen science data using geospatial covariates in the <a href="https://www.globeatnight.org/">Globe at Night</a> data. 
     </p>
 </div>
 
