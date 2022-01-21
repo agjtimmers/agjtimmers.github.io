@@ -14,6 +14,7 @@ permalink: /about/
     float:left;
     vertical-align: middle;
     height:600px;
+    padding-right: 20px;
 }
 .container {
     width:100%;
