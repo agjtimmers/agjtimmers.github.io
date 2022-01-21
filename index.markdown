@@ -5,39 +5,7 @@
 layout: home
 ---
 
-<style type="text/css">
- * {
-    padding:0;
-    margin:0;
-}
-.iconDetails {
-    margin:0;
-    float:left;
-    vertical-align: middle;
-    height:400px;
-}
-.container {
-    width:100%;
-    height:auto;
-    padding:1%;
-}
-.text {
-    float:left;
-    margin:20px;
-}
-</style>
-
-<div class='container'>
-    <img src="img_icon.jpeg" class='iconDetails' />
-    <div class="text">
-        <p>
-        Welcome! 
-        <br>
-        <br>
-        I am Annemarie Timmers
-        </p>
-    </div>
-</div>
+![](profile.png)
 
 
 

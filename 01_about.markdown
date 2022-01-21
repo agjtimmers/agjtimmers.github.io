@@ -13,7 +13,7 @@ permalink: /about/
     margin:0;
     float:left;
     vertical-align: middle;
-    height:400px;
+    height:600px;
 }
 .container {
     width:100%;
@@ -21,7 +21,6 @@ permalink: /about/
     padding:1%;
 }
 .text {
-    float:left;
     margin:20px;
 }
 </style>
