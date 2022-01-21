@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![](profile.png)
+![](frontpage.png)
 
 
 
