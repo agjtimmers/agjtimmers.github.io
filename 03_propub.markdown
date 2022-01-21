@@ -12,7 +12,7 @@ permalink: /projects/
 </div>
 <div>
     <p>
-    I am writing my master thesis at <a href="https://www.cito.com/">Cito</a> at the Department of Psychometrics and Research under the supervision of <a href="https://www.cito.nl/kennis-en-innovatie/psychometrisch-onderzoek-en-dienstverlening/team/remco-feskens">Remco Feskens</a> and <a href="https://personen.utwente.nl/m.r.m.meelissen">Martina Meelissen</a>. I am investigating the use of propensity score matching to reduce mode effects in PISA.  
+    I am writing my master thesis at <a href="https://www.cito.com/">Cito</a> at the Department of Psychometrics and Research under the supervision of <a href="https://www.cito.nl/kennis-en-innovatie/psychometrisch-onderzoek-en-dienstverlening/team/remco-feskens">Remco Feskens</a> and <a href="https://personen.utwente.nl/m.r.m.meelissen">Martina Meelissen</a>. I am investigating the use of propensity score matching to reduce mode effects in cross-country comparisons in PISA.  
     </p>
 </div>
 <div>
@@ -20,7 +20,7 @@ permalink: /projects/
 </div>
 <div>
   <p>
-  Together with <a href="https://www.uu.nl/medewerkers/plugtig">Peter Lugtig</a>, <a href="https://www.uu.nl/medewerkers/BStruminskaya">Bella Struminskaya</a> and <a href="https://www.uu.nl/medewerkers/CJEHenneveld1">C&#233;line Henneveld</a>, I am working on an update of the meta-analysis on the impact of nonresponse rates on nonresponse bias by Groves and Petcheva (2008). Since the publication of this paper, response rates have dropped further and the use web surveys has increased. We are currently in the text screening stage.    
+  Together with <a href="https://www.uu.nl/medewerkers/plugtig">Peter Lugtig</a>, <a href="https://www.uu.nl/medewerkers/BStruminskaya">Bella Struminskaya</a> and <a href="https://www.uu.nl/medewerkers/CJEHenneveld1">C&#233;line Henneveld</a>, I am working on an update of the meta-analysis regarding the impact of nonresponse rates on nonresponse bias by Groves and Petcheva (2008). Since the publication of this paper, response rates have dropped further and the use web surveys has increased, thus prompting an update of the original study. We are currently in the text screening stage.    
   </p>
 </div>
 <div>
