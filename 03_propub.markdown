@@ -8,7 +8,7 @@ permalink: /projects/
   <h3>Projects</h3>
 </div>
 <div>
-  <h5>Master thesis</h5>
+  <p><b>Master thesis</b></p>
 </div>
 <div>
     <p>
@@ -16,15 +16,15 @@ permalink: /projects/
     </p>
 </div>
 <div>
-  <h5>Meta-analysis</h5>
+  <p><b>Meta-analysis nonresponse and nonresponse bias</b></p>
 </div>
 <div>
   <p>
-  Together with <a href="https://www.uu.nl/medewerkers/plugtig">Peter Lugtig</a>, <a href="https://www.uu.nl/medewerkers/BStruminskaya">Bella Struminskaya</a> and <a href="https://www.uu.nl/medewerkers/CJEHenneveld1">C&#201;line Henneveld</a>, I am working on a meta-analysis on nonresponse and nonresponse bias. We are currently in the text screening stage.    
+  Together with <a href="https://www.uu.nl/medewerkers/plugtig">Peter Lugtig</a>, <a href="https://www.uu.nl/medewerkers/BStruminskaya">Bella Struminskaya</a> and <a href="https://www.uu.nl/medewerkers/CJEHenneveld1">C&#233;line Henneveld</a>, I am working on an update of the meta-analysis on the impact of nonresponse rates on nonresponse bias by Groves and Petcheva (2008). Since the publication of this paper, response rates have dropped further and the use web surveys has increased. We are currently in the text screening stage.    
   </p>
 </div>
 <div>
-  <h5>Geoenrichment of citizen science data</h5>
+  <p><b>Geoenrichment of citizen science data</b></p>
 </div>
 <div>
     <p>
