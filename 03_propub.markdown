@@ -12,7 +12,7 @@ permalink: /projects/
 </div>
 <div>
     <p>
-    I am writing my master thesis at <a href="https://www.cito.com/">Cito</a> at the Department of Psychometrics and Research under the supervision of <a href="https://www.cito.nl/kennis-en-innovatie/psychometrisch-onderzoek-en-dienstverlening/team/remco-feskens">Remco Feskens</a> and <a href="https://personen.utwente.nl/m.r.m.meelissen">Martina Meelissen</a> (University of Twente). I am investigating the use of propensity score matching in reducing mode effects in cross-country comparisons in PISA. Visit the Github repository for my thesis <a href="https://github.com/agjtimmers/CitoThesis">here</a>. 
+    I am writing my master thesis at <a href="https://www.cito.com/">Cito</a> at the Department of Psychometrics and Research under the supervision of <a href="https://www.cito.nl/kennis-en-innovatie/psychometrisch-onderzoek-en-dienstverlening/team/remco-feskens">Remco Feskens</a> and <a href="https://personen.utwente.nl/m.r.m.meelissen">Martina Meelissen</a> (University of Twente). I am investigating the use of propensity score matching in reducing mode effects in cross-country comparisons in PISA. Visit the Github repository for my thesis <a href="https://github.com/agjtimmers/Research-Report">here</a>. 
     </p>
 </div>
 <div>
